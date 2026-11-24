@@ -1,0 +1,26 @@
+<annotation>
+  <folder>2 Setengah Matang</folder>
+  <filename>s_setengah (199)</filename>
+  <path>E:\mangrove\Pengelompokan\Training\2 Setengah Matang\s_setengah (199).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>540</width>
+    <height>960</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>setengah matang</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>167</xmin>
+      <ymin>51</ymin>
+      <xmax>290</xmax>
+      <ymax>934</ymax>
+    </bndbox>
+  </object>
+</annotation>

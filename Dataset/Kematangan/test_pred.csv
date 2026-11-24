@@ -1,0 +1,512 @@
+filename,width,height,class,xmin,ymin,xmax,ymax,score
+s_matang (370).jpg,2160,3840,mendekati matang,966,234,1256,895,0.9999913
+m_mentah (351).jpg,540,960,setengah matang,329,75,416,223,0.9742775
+m_mentah (351).jpg,540,960,mentah,327,73,417,232,0.43236926
+m_mentah (387).jpg,540,960,setengah matang,245,49,310,167,0.98879707
+m_mentah (395).jpg,540,960,mentah,142,45,240,184,0.9572221
+m_mentah (395).jpg,540,960,setengah matang,147,47,234,185,0.79291713
+m_setengah (353).jpg,540,960,setengah matang,97,134,185,284,0.99987304
+m_setengah (394).jpg,540,960,setengah matang,176,140,266,281,0.99088764
+m_setengah (340).jpg,540,960,setengah matang,117,157,240,354,0.9999474
+m_setengah (362).jpg,540,960,setengah matang,229,106,313,267,0.88809925
+m_setengah (362).jpg,540,960,mendekati matang,234,106,308,271,0.73136055
+m_setengah (323).jpg,540,960,setengah matang,196,129,268,278,0.913582
+m_setengah (323).jpg,540,960,mendekati matang,198,127,264,288,0.39330605
+m_setengah (380).jpg,540,960,setengah matang,222,23,315,149,0.99276626
+m_setengah (342).jpg,540,960,setengah matang,210,184,262,268,0.9945439
+m_setengah (342).jpg,540,960,mendekati matang,243,214,286,316,0.98762786
+m_setengah (342).jpg,540,960,setengah matang,312,607,358,670,0.9796521
+m_setengah (342).jpg,540,960,setengah matang,241,224,288,310,0.43565944
+m_setengah (359).jpg,540,960,mendekati matang,208,171,260,271,0.9999026
+m_setengah (359).jpg,540,960,setengah matang,239,215,295,304,0.963851
+m_setengah (359).jpg,540,960,mendekati matang,217,171,275,291,0.8231039
+m_setengah (359).jpg,540,960,mendekati matang,233,191,288,306,0.72673
+m_setengah (349).jpg,540,960,mendekati matang,174,144,250,246,0.99107987
+m_setengah (349).jpg,540,960,mentah,172,134,254,258,0.91133887
+m_setengah (328).jpg,540,960,setengah matang,93,71,179,176,0.78600305
+m_setengah (328).jpg,540,960,mendekati matang,101,79,176,172,0.7588561
+m_setengah (369).jpg,540,960,mendekati matang,265,149,334,279,0.99653095
+m_setengah (378).jpg,540,960,mendekati matang,173,143,247,258,0.99994886
+m_setengah (376).jpg,540,960,setengah matang,320,187,407,333,0.96686256
+m_setengah (376).jpg,540,960,mentah,316,187,411,334,0.73456436
+m_setengah (365).jpg,540,960,setengah matang,194,168,263,299,0.99969316
+m_setengah (322).jpg,540,960,mendekati matang,162,8,219,152,0.99931836
+m_setengah (322).jpg,540,960,mendekati matang,235,70,311,204,0.99801046
+m_setengah (367).jpg,540,960,setengah matang,184,151,247,273,0.99995494
+m_setengah (364).jpg,540,960,setengah matang,258,126,345,279,0.99951863
+m_setengah (325).jpg,540,960,setengah matang,209,112,309,273,0.9999708
+m_setengah (370).jpg,540,960,setengah matang,256,132,340,293,0.99998784
+m_setengah (368).jpg,540,960,setengah matang,267,115,341,269,0.9999342
+m_setengah (354).jpg,540,960,setengah matang,217,125,297,282,0.9997198
+m_matang (361).jpg,540,960,mendekati matang,137,144,193,284,0.9999987
+m_matang (361).jpg,540,960,setengah matang,186,146,231,247,0.99999785
+m_matang (341).jpg,540,960,mendekati matang,282,209,350,348,0.99999714
+m_matang (341).jpg,540,960,setengah matang,252,207,303,297,0.9999943
+m_matang (362).jpg,540,960,mendekati matang,130,104,196,272,0.9999993
+m_matang (324).jpg,540,960,setengah matang,226,160,269,258,0.999984
+m_matang (324).jpg,540,960,mendekati matang,169,160,245,307,0.9997973
+m_matang (376).jpg,540,960,mendekati matang,362,221,426,362,0.99999976
+m_matang (376).jpg,540,960,setengah matang,325,227,378,313,0.9999914
+m_matang (388).jpg,540,960,mendekati matang,300,205,364,347,1.0
+m_matang (388).jpg,540,960,setengah matang,263,201,313,293,0.99999094
+m_matang (344).jpg,540,960,mendekati matang,159,195,214,312,1.0
+m_matang (344).jpg,540,960,mendekati matang,194,194,242,306,0.999998
+m_matang (353).jpg,540,960,mendekati matang,213,312,273,402,0.9999993
+m_matang (331).jpg,540,960,mendekati matang,196,305,241,402,0.9999999
+m_matang (381).jpg,540,960,mendekati matang,172,84,235,227,0.9999995
+m_matang (381).jpg,540,960,mendekati matang,220,76,272,201,0.9991392
+m_matang (381).jpg,540,960,mendekati matang,404,85,463,197,0.9718936
+m_matang (358).jpg,540,960,mendekati matang,181,110,241,249,0.99999976
+m_matang (358).jpg,540,960,setengah matang,235,109,286,228,0.9999989
+m_matang (358).jpg,540,960,mendekati matang,435,174,496,315,0.9999875
+m_matang (364).jpg,540,960,mendekati matang,218,126,283,231,0.99997926
+m_matang (364).jpg,540,960,mendekati matang,161,569,190,650,0.48747793
+m_matang (384).jpg,540,960,mendekati matang,161,78,247,179,0.99981767
+m_matang (326).jpg,540,960,mentah,167,300,262,407,0.59792614
+m_matang (323).jpg,540,960,mendekati matang,201,292,274,411,0.9754927
+m_matang (323).jpg,540,960,mentah,196,286,277,409,0.5886493
+m_matang (347).jpg,540,960,setengah matang,264,141,341,238,0.9999995
+m_matang (347).jpg,540,960,mendekati matang,246,165,296,289,0.9998702
+m_matang (347).jpg,540,960,setengah matang,252,151,317,256,0.9700742
+m_matang (387).jpg,540,960,setengah matang,204,180,282,278,0.99999976
+m_matang (387).jpg,540,960,mendekati matang,178,202,229,322,0.9999988
+m_matang (365).jpg,540,960,mendekati matang,234,180,282,309,0.99999976
+m_matang (365).jpg,540,960,setengah matang,263,167,332,268,0.99999964
+m_matang (339).jpg,540,960,mendekati matang,196,295,252,407,0.9818209
+m_matang (339).jpg,540,960,setengah matang,182,276,249,371,0.96734536
+m_matang (373).jpg,540,960,mendekati matang,125,78,210,253,0.99999964
+m_matang (373).jpg,540,960,setengah matang,183,90,229,188,0.9999615
+m_matang (360).jpg,540,960,mendekati matang,86,61,166,232,0.9999926
+m_matang (360).jpg,540,960,setengah matang,137,56,206,186,0.9996749
+m_matang (356).jpg,540,960,setengah matang,195,268,263,369,0.9997515
+m_matang (356).jpg,540,960,mendekati matang,212,293,260,412,0.9917019
+m_matang (386).jpg,540,960,mendekati matang,128,65,203,225,1.0
+m_matang (334).jpg,540,960,setengah matang,133,80,191,197,0.9999995
+m_matang (334).jpg,540,960,setengah matang,64,73,140,235,0.99190336
+m_matang (334).jpg,540,960,mendekati matang,67,78,139,267,0.3671893
+m_matang (346).jpg,540,960,mendekati matang,181,71,258,265,0.99999404
+m_matang (357).jpg,540,960,setengah matang,165,166,247,273,0.99779993
+m_matang (357).jpg,540,960,mendekati matang,169,175,230,319,0.99630296
+m_matang (330).jpg,540,960,mendekati matang,189,215,245,354,0.9999902
+m_matang (330).jpg,540,960,setengah matang,176,200,243,312,0.98184997
+m_matang (350).jpg,540,960,setengah matang,172,176,238,290,0.9625054
+m_matang (379).jpg,540,960,mendekati matang,113,81,197,264,0.9999913
+m_matang (368).jpg,540,960,mendekati matang,86,112,166,265,0.9999708
+m_matang (368).jpg,540,960,mentah,454,858,514,946,0.8169899
+m_matang (340).jpg,540,960,mendekati matang,101,16,192,205,0.9997532
+m_matang (343).jpg,540,960,mendekati matang,382,135,471,297,0.9999957
+m_matang (371).jpg,540,960,mendekati matang,343,91,420,244,0.9999908
+m_matang (348).jpg,540,960,mendekati matang,174,154,242,296,0.9999982
+m_matang (321).jpg,540,960,mentah,141,9,248,204,0.93856806
+m_matang (321).jpg,540,960,mendekati matang,145,12,242,181,0.85924333
+m_matang (332).jpg,540,960,mendekati matang,160,146,226,277,0.99934846
+m_matang (366).jpg,540,960,mendekati matang,223,154,298,287,0.99999785
+m_matang (363).jpg,540,960,mendekati matang,222,131,289,265,0.9999505
+m_matang (359).jpg,540,960,mendekati matang,234,121,294,255,0.99999785
+m_matang (385).jpg,540,960,mendekati matang,181,165,244,303,1.0
+m_matang (385).jpg,540,960,mendekati matang,227,167,261,284,0.57320184
+m_matang (383).jpg,540,960,mendekati matang,190,96,280,257,0.9882804
+m_matang (345).jpg,540,960,mendekati matang,131,114,206,271,0.99999654
+m_matang (345).jpg,540,960,setengah matang,88,105,149,204,0.9999881
+m_matang (400).jpg,540,960,mendekati matang,298,110,368,267,0.9999949
+s_mentah (329).jpg,540,960,mentah,141,78,227,202,0.9951198
+s_mentah (341).jpg,540,960,mentah,216,99,320,221,0.9996427
+s_mentah (392).jpg,540,960,mentah,71,177,140,269,0.9996183
+s_mentah (375).jpg,540,960,mentah,148,76,256,194,0.99976486
+s_mentah (360).jpg,540,960,mentah,161,33,260,187,0.9999323
+s_mentah (394).jpg,540,960,mentah,83,172,160,259,0.97881794
+s_mentah (359).jpg,540,960,mentah,91,155,174,242,0.9994216
+s_mentah (383).jpg,540,960,mentah,91,155,174,242,0.9994216
+s_mentah (400).jpg,540,960,mentah,321,198,411,300,0.97947764
+s_mentah (369).jpg,540,960,mentah,333,108,416,255,0.9990594
+s_mentah (325).jpg,540,960,mentah,291,100,380,231,0.9994981
+s_mentah (367).jpg,540,960,mentah,300,263,392,360,0.9986382
+s_mentah (361).jpg,540,960,mentah,341,219,426,333,0.99922764
+s_mentah (362).jpg,540,960,mentah,336,102,440,238,0.99853337
+s_mentah (321).jpg,540,960,mentah,321,198,411,300,0.97947764
+s_mentah (387).jpg,540,960,mentah,391,151,463,238,0.9993437
+s_mentah (332).jpg,540,960,mentah,288,229,365,341,0.99986506
+s_mentah (376).jpg,540,960,mentah,360,191,448,298,0.9997396
+s_mentah (365).jpg,540,960,mentah,351,117,467,236,0.99993443
+s_mentah (345).jpg,540,960,mentah,313,228,418,346,0.99972075
+s_mentah (377).jpg,540,960,mentah,356,214,447,332,0.99985456
+s_mentah (343).jpg,540,960,mentah,288,211,387,330,0.95600766
+s_mentah (395).jpg,540,960,mentah,262,140,360,283,0.99993134
+s_mentah (324).jpg,540,960,mentah,283,174,375,269,0.9993901
+s_mentah (380).jpg,540,960,mentah,142,133,218,253,0.9937349
+s_mentah (348).jpg,540,960,mentah,103,101,200,213,0.81646955
+s_mentah (378).jpg,540,960,mentah,324,182,401,279,0.99902606
+s_mentah (352).jpg,540,960,mentah,294,213,382,310,0.9994967
+s_mentah (388).jpg,540,960,mentah,109,72,195,208,0.99994004
+s_mentah (399).jpg,540,960,mentah,88,179,161,246,0.99938154
+s_mentah (331).jpg,540,960,mentah,122,115,198,231,0.99855644
+s_mentah (391).jpg,540,960,mentah,122,115,198,231,0.99855644
+s_mentah (328).jpg,540,960,mentah,300,45,384,179,0.9999585
+s_mentah (342).jpg,540,960,mentah,98,105,181,232,0.99983287
+s_mentah (374).jpg,540,960,mentah,285,195,363,304,0.9996395
+s_mentah (336).jpg,540,960,mentah,240,112,345,230,0.99933237
+s_mentah (373).jpg,540,960,mentah,272,273,364,371,0.9996425
+s_mentah (355).jpg,540,960,mentah,347,84,457,192,0.9998753
+s_mentah (364).jpg,540,960,mentah,248,120,336,248,0.9986047
+s_mentah (350).jpg,540,960,mentah,260,254,345,346,0.99851745
+s_mentah (344).jpg,540,960,mentah,102,72,196,196,0.9936907
+s_mentah (354).jpg,540,960,mentah,267,65,377,193,0.999899
+s_mentah (398).jpg,540,960,mentah,307,95,412,216,0.9997017
+s_mentah (323).jpg,540,960,setengah matang,150,129,234,240,0.99795204
+s_mentah (368).jpg,540,960,mentah,299,237,411,386,0.9979394
+s_mentah (357).jpg,540,960,mentah,200,19,320,227,0.9997496
+s_mentah (340).jpg,540,960,mentah,146,41,257,261,0.9999926
+s_setengah (373).jpg,540,960,setengah matang,237,214,311,323,0.99996483
+s_setengah (326).jpg,540,960,setengah matang,237,224,326,335,0.9999639
+s_setengah (369).jpg,540,960,setengah matang,213,128,310,279,0.99997365
+s_setengah (378).jpg,540,960,setengah matang,299,111,393,267,0.9999987
+s_setengah (339).jpg,540,960,setengah matang,299,111,393,267,0.9999987
+s_setengah (390).jpg,540,960,setengah matang,205,122,288,245,0.999998
+s_setengah (357).jpg,540,960,setengah matang,216,129,304,276,0.99998057
+s_setengah (328).jpg,540,960,setengah matang,303,124,393,270,0.9996593
+s_setengah (391).jpg,540,960,setengah matang,311,100,407,259,0.99999905
+s_setengah (330).jpg,540,960,setengah matang,222,76,313,209,0.9999876
+s_setengah (334).jpg,540,960,setengah matang,259,161,340,277,0.99995935
+s_setengah (384).jpg,540,960,setengah matang,291,196,359,285,0.99995565
+s_setengah (323).jpg,540,960,setengah matang,225,171,313,283,0.99998367
+s_setengah (370).jpg,540,960,setengah matang,319,205,394,307,0.9999914
+s_setengah (372).jpg,540,960,setengah matang,296,132,378,236,0.99991333
+s_setengah (343).jpg,540,960,setengah matang,293,169,377,279,0.99994695
+s_setengah (324).jpg,540,960,setengah matang,259,147,361,303,0.99999857
+s_setengah (397).jpg,540,960,setengah matang,293,100,373,215,0.9999777
+s_setengah (336).jpg,540,960,setengah matang,285,119,353,224,0.9972541
+s_setengah (394).jpg,540,960,setengah matang,293,100,373,215,0.9999777
+s_setengah (366).jpg,540,960,setengah matang,378,84,479,222,0.9991548
+s_setengah (376).jpg,540,960,setengah matang,378,84,479,222,0.9991548
+s_setengah (386).jpg,540,960,setengah matang,353,77,460,202,0.999233
+s_setengah (340).jpg,540,960,setengah matang,348,103,437,214,0.9999584
+s_setengah (332).jpg,540,960,setengah matang,226,57,298,198,0.9999559
+s_setengah (355).jpg,540,960,setengah matang,212,183,302,303,0.99994373
+s_setengah (333).jpg,540,960,setengah matang,249,164,344,289,0.9999089
+s_setengah (396).jpg,540,960,setengah matang,247,185,321,288,0.9999745
+s_setengah (345).jpg,540,960,setengah matang,218,158,292,260,0.9999808
+s_setengah (371).jpg,540,960,setengah matang,232,166,295,261,0.99993265
+s_setengah (367).jpg,540,960,setengah matang,232,166,295,261,0.99993265
+s_setengah (388).jpg,540,960,setengah matang,226,148,298,271,0.99993694
+s_setengah (400).jpg,540,960,setengah matang,226,148,298,271,0.99993694
+s_setengah (338).jpg,540,960,setengah matang,199,74,268,175,0.9999236
+s_setengah (393).jpg,540,960,setengah matang,188,98,262,194,0.99958104
+s_setengah (392).jpg,540,960,setengah matang,164,141,237,244,0.9988507
+s_setengah (368).jpg,540,960,setengah matang,207,63,268,134,0.99986684
+s_setengah (331).jpg,540,960,setengah matang,230,23,289,120,0.99971336
+s_setengah (398).jpg,540,960,setengah matang,271,12,340,118,0.9994881
+s_setengah (374).jpg,540,960,setengah matang,185,81,248,168,0.9996686
+s_setengah (358).jpg,540,960,setengah matang,269,20,343,153,0.99987674
+s_setengah (399).jpg,540,960,setengah matang,253,19,331,113,0.999788
+s_setengah (356).jpg,540,960,setengah matang,185,81,248,168,0.9996686
+s_setengah (379).jpg,540,960,setengah matang,145,128,216,253,0.9999975
+s_setengah (385).jpg,540,960,setengah matang,169,129,253,269,0.99987435
+s_setengah (361).jpg,540,960,setengah matang,155,152,233,276,0.9999784
+s_setengah (387).jpg,540,960,setengah matang,169,129,253,269,0.99987435
+s_setengah (325).jpg,540,960,setengah matang,219,130,300,259,0.99998116
+s_setengah (362).jpg,540,960,setengah matang,209,32,303,175,0.9999192
+s_setengah (377).jpg,540,960,setengah matang,173,88,259,213,0.9999877
+s_setengah (375).jpg,540,960,setengah matang,154,72,239,213,0.9874708
+s_setengah (329).jpg,540,960,setengah matang,178,67,264,205,0.9997693
+s_setengah (327).jpg,540,960,setengah matang,210,25,287,150,0.9999901
+s_setengah (337).jpg,540,960,setengah matang,205,28,289,161,0.9999902
+s_setengah (335).jpg,540,960,setengah matang,128,64,249,210,0.99999046
+s_setengah (389).jpg,540,960,setengah matang,206,57,284,175,0.99977785
+s_setengah (342).jpg,540,960,setengah matang,259,20,353,170,0.9999174
+s_setengah (383).jpg,540,960,setengah matang,206,57,284,175,0.99977785
+s_matang (373).jpg,540,960,mendekati matang,157,140,243,349,0.9997038
+s_matang (358).jpg,540,960,mendekati matang,129,49,211,219,0.9354586
+s_matang (358).jpg,540,960,setengah matang,121,46,216,208,0.58748853
+s_matang (379).jpg,540,960,mendekati matang,72,97,149,274,0.9999924
+s_matang (338).jpg,540,960,mendekati matang,217,149,305,295,0.99633116
+s_matang (327).jpg,540,960,mendekati matang,299,233,381,369,0.99997723
+s_matang (331).jpg,540,960,setengah matang,326,208,393,336,0.9997782
+s_matang (331).jpg,540,960,mentah,2,15,258,692,0.91285264
+s_mentah (381).jpg,540,960,mentah,227,110,284,254,0.99782974
+s_mentah (363).jpg,540,960,mentah,255,138,321,269,0.9998909
+s_mentah (334).jpg,540,960,mentah,253,149,328,256,0.99922013
+s_mentah (333).jpg,540,960,mentah,259,146,322,274,0.99812275
+s_mentah (384).jpg,540,960,mentah,258,145,326,277,0.9999769
+s_mentah (372).jpg,540,960,mentah,255,146,328,278,0.9998932
+s_mentah (327).jpg,540,960,mentah,245,145,322,279,0.99969494
+s_mentah (366).jpg,540,960,mentah,253,134,317,267,0.9999323
+s_mentah (385).jpg,540,960,mentah,244,136,318,268,0.99941945
+s_mentah (322).jpg,540,960,mentah,249,129,333,265,0.99991345
+s_mentah (351).jpg,540,960,mentah,253,134,317,267,0.9999323
+s_mentah (358).jpg,540,960,mentah,243,108,312,240,0.9998654
+s_mentah (346).jpg,540,960,mentah,230,119,296,231,0.9998523
+s_mentah (353).jpg,540,960,mentah,235,124,315,259,0.9999596
+s_mentah (339).jpg,540,960,mentah,225,175,301,311,0.99991775
+s_mentah (330).jpg,540,960,mentah,235,105,299,231,0.9998275
+s_mentah (389).jpg,540,960,mentah,232,114,302,241,0.9999399
+s_mentah (356).jpg,540,960,mentah,232,114,302,241,0.9999399
+s_mentah (393).jpg,540,960,mentah,236,1,376,169,0.99983466
+s_mentah (370).jpg,540,960,mentah,220,4,361,198,0.9999316
+s_mentah (349).jpg,540,960,mentah,200,16,287,161,0.9997991
+s_mentah (397).jpg,540,960,mentah,181,5,265,158,0.99976724
+s_mentah (379).jpg,540,960,mentah,172,5,274,172,0.9999417
+s_mentah (326).jpg,540,960,mentah,185,0,282,120,0.9996933
+s_mentah (390).jpg,540,960,mentah,185,0,282,120,0.9996933
+s_mentah (396).jpg,540,960,mentah,181,5,265,158,0.99976724
+s_mentah (347).jpg,540,960,mentah,200,16,287,161,0.9997991
+s_mentah (386).jpg,540,960,mentah,143,1,231,99,0.9998963
+s_mentah (382).jpg,540,960,mentah,201,1,298,144,0.99584097
+s_mentah (338).jpg,540,960,mentah,151,0,235,128,0.99978083
+s_mentah (371).jpg,540,960,mentah,172,0,261,156,0.99341714
+s_mentah (335).jpg,540,960,mentah,156,2,240,124,0.9998281
+s_mentah (337).jpg,540,960,mentah,157,0,254,125,0.99911445
+s_setengah (381).jpg,540,960,setengah matang,267,44,379,236,0.99997747
+s_setengah (360).jpg,540,960,setengah matang,159,39,254,219,0.9999987
+s_setengah (364).jpg,540,960,setengah matang,197,18,303,207,0.999985
+s_setengah (346).jpg,540,960,setengah matang,165,42,268,227,0.9999963
+s_setengah (321).jpg,540,960,setengah matang,188,11,291,188,0.9999732
+s_setengah (380).jpg,540,960,setengah matang,214,17,323,222,0.999918
+s_setengah (359).jpg,540,960,setengah matang,169,45,256,242,0.9999933
+s_setengah (382).jpg,540,960,setengah matang,242,25,356,237,0.99997294
+s_setengah (395).jpg,540,960,setengah matang,237,13,343,182,0.9999945
+s_setengah (344).jpg,540,960,setengah matang,259,43,359,234,0.99998665
+s_setengah (363).jpg,540,960,setengah matang,242,8,356,226,0.99999976
+s_setengah (322).jpg,540,960,setengah matang,249,43,327,204,0.9995012
+s_setengah (341).jpg,540,960,setengah matang,249,43,327,204,0.9995012
+s_matang (336).jpg,540,960,mendekati matang,254,42,349,200,0.9999987
+s_matang (371).jpg,540,960,mendekati matang,238,41,335,213,0.99999905
+s_matang (352).jpg,540,960,mendekati matang,255,56,327,202,0.9999939
+s_matang (324).jpg,540,960,mendekati matang,233,55,328,202,0.99999857
+s_matang (332).jpg,540,960,mendekati matang,213,41,307,210,0.9999951
+s_matang (365).jpg,540,960,mendekati matang,234,43,333,204,0.9999989
+s_matang (389).jpg,540,960,mendekati matang,193,2,286,181,0.9999958
+s_matang (395).jpg,540,960,mendekati matang,219,0,302,169,0.9999746
+s_matang (362).jpg,540,960,mendekati matang,207,11,287,165,0.99990356
+s_matang (342).jpg,540,960,mendekati matang,321,12,398,173,0.99999595
+s_matang (334).jpg,540,960,mendekati matang,237,3,321,159,0.99998903
+s_matang (385).jpg,540,960,mendekati matang,228,11,316,164,0.9999764
+s_matang (372).jpg,540,960,mendekati matang,215,10,298,167,0.9999945
+s_matang (326).jpg,540,960,mendekati matang,293,14,368,165,0.9999964
+s_matang (333).jpg,540,960,mendekati matang,238,9,316,177,0.9999949
+s_matang (394).jpg,540,960,mendekati matang,238,9,317,170,0.9999943
+s_matang (396).jpg,540,960,mendekati matang,237,3,321,159,0.99998903
+s_matang (368).jpg,540,960,mendekati matang,300,14,380,167,0.99971896
+s_matang (378).jpg,540,960,mendekati matang,283,1,360,197,0.99999607
+s_matang (341).jpg,540,960,mendekati matang,235,5,314,166,0.99970907
+s_matang (355).jpg,540,960,mendekati matang,238,21,308,165,0.97256696
+s_matang (355).jpg,540,960,setengah matang,233,16,312,156,0.878077
+s_matang (343).jpg,540,960,mendekati matang,235,5,314,166,0.99970907
+s_matang (384).jpg,540,960,mendekati matang,251,142,328,283,0.9999999
+s_matang (381).jpg,540,960,mendekati matang,286,15,368,172,0.9999918
+s_matang (328).jpg,540,960,mendekati matang,219,13,307,153,0.99999106
+s_matang (359).jpg,540,960,mendekati matang,219,13,307,153,0.99999106
+s_matang (347).jpg,540,960,mendekati matang,261,115,329,263,0.99999917
+s_matang (322).jpg,540,960,mendekati matang,272,110,346,267,0.9999994
+s_matang (387).jpg,540,960,mendekati matang,268,116,353,256,0.99999297
+s_matang (366).jpg,540,960,mendekati matang,261,119,359,267,0.9999994
+s_matang (374).jpg,540,960,mendekati matang,271,110,350,254,0.9999989
+s_matang (337).jpg,540,960,mendekati matang,262,87,353,256,0.9999999
+s_matang (350).jpg,540,960,mendekati matang,276,79,345,233,0.99994934
+s_matang (382).jpg,540,960,mendekati matang,260,85,332,238,0.9999981
+s_matang (390).jpg,540,960,mendekati matang,252,1,352,154,0.99999976
+s_matang (344).jpg,540,960,mendekati matang,262,8,343,169,0.9999969
+s_matang (351).jpg,540,960,mendekati matang,241,13,344,150,0.9999975
+s_matang (346).jpg,540,960,mendekati matang,254,8,348,155,0.9999956
+s_matang (400).jpg,540,960,mendekati matang,237,21,331,193,0.99998534
+s_matang (356).jpg,540,960,mendekati matang,238,13,339,179,0.99962044
+s_matang (386).jpg,540,960,mendekati matang,229,13,329,186,0.99998283
+s_matang (340).jpg,540,960,mendekati matang,225,2,324,180,0.99970776
+s_matang (330).jpg,540,960,mendekati matang,236,23,335,197,0.99984264
+s_matang (369).jpg,540,960,mendekati matang,232,9,333,179,0.9999912
+s_matang (364).jpg,540,960,mendekati matang,234,31,314,187,0.99998116
+s_matang (363).jpg,540,960,mendekati matang,262,1,361,175,0.9999883
+s_matang (353).jpg,540,960,mendekati matang,273,48,372,221,0.9999443
+s_matang (398).jpg,540,960,mendekati matang,291,16,387,216,0.9999659
+s_matang (361).jpg,540,960,mendekati matang,283,34,378,221,0.99999213
+s_matang (349).jpg,540,960,mendekati matang,295,0,376,179,0.9998443
+s_matang (391).jpg,540,960,mendekati matang,283,34,378,221,0.99999213
+s_matang (367).jpg,540,960,mendekati matang,236,28,330,202,0.9999924
+s_matang (329).jpg,540,960,mendekati matang,256,29,341,199,0.9999893
+s_matang (388).jpg,540,960,mendekati matang,257,129,333,274,0.9999999
+s_matang (397).jpg,540,960,mendekati matang,257,129,333,274,0.9999999
+s_matang (377).jpg,540,960,mendekati matang,231,58,313,226,0.99999774
+s_matang (345).jpg,540,960,mendekati matang,223,61,310,230,0.99999964
+s_matang (321).jpg,540,960,mendekati matang,229,26,324,229,0.99999225
+s_matang (325).jpg,540,960,mendekati matang,210,26,317,199,0.99999905
+s_matang (335).jpg,540,960,mendekati matang,216,42,298,221,0.99999595
+s_matang (354).jpg,540,960,mendekati matang,175,27,268,207,0.9999944
+s_matang (392).jpg,540,960,mendekati matang,227,55,304,208,0.99997973
+s_matang (339).jpg,540,960,mendekati matang,185,28,309,200,0.99960715
+s_matang (348).jpg,540,960,mendekati matang,185,28,309,200,0.99960715
+s_matang (393).jpg,540,960,mendekati matang,197,23,306,201,0.9999801
+s_matang (383).jpg,540,960,mendekati matang,212,41,331,221,0.9999902
+s_matang (380).jpg,540,960,mendekati matang,229,52,316,216,0.9999988
+s_matang (376).jpg,540,960,mendekati matang,195,48,321,230,0.99996686
+s_matang (375).jpg,540,960,mendekati matang,234,53,307,224,0.9999999
+s_matang (357).jpg,540,960,mendekati matang,195,71,300,236,0.99995744
+s_matang (323).jpg,540,960,mendekati matang,182,90,288,248,0.9999989
+s_matang (360).jpg,540,960,mendekati matang,186,67,287,238,0.99999726
+s_matang (399).jpg,540,960,mendekati matang,220,62,308,219,0.9999994
+m_mentah (346).jpg,540,960,mentah,202,143,290,302,0.99991846
+m_mentah (348).jpg,540,960,mentah,291,159,486,666,0.9999908
+m_mentah (328).jpg,540,960,mentah,250,4,349,176,0.99953663
+m_mentah (335).jpg,540,960,mentah,257,48,365,227,0.9995478
+m_mentah (365).jpg,540,960,setengah matang,251,0,409,245,0.99480104
+m_mentah (365).jpg,540,960,mentah,252,0,412,225,0.7657662
+m_mentah (347).jpg,540,960,mentah,186,1,340,209,0.999998
+m_mentah (378).jpg,540,960,mentah,192,11,336,219,0.99999607
+m_mentah (337).jpg,540,960,mentah,183,1,333,186,0.9994405
+m_mentah (343).jpg,540,960,mentah,162,20,313,259,0.9999993
+m_mentah (338).jpg,540,960,mentah,221,11,302,145,0.99971837
+m_mentah (374).jpg,540,960,mentah,244,37,326,144,0.9999726
+m_mentah (394).jpg,540,960,mentah,233,21,318,143,0.99998224
+m_mentah (353).jpg,540,960,mentah,223,45,322,176,0.9998814
+m_mentah (353).jpg,540,960,setengah matang,456,436,502,526,0.94051266
+m_mentah (353).jpg,540,960,mentah,431,306,499,389,0.93826723
+m_mentah (353).jpg,540,960,mentah,452,432,508,530,0.39851585
+m_mentah (371).jpg,540,960,mentah,273,8,344,146,0.9999335
+m_mentah (350).jpg,540,960,mentah,225,2,326,181,0.99939716
+m_mentah (350).jpg,540,960,setengah matang,127,353,186,438,0.97301394
+m_mentah (350).jpg,540,960,mentah,450,554,514,705,0.9524634
+m_mentah (349).jpg,540,960,mentah,72,22,189,259,0.9999008
+m_mentah (331).jpg,540,960,mentah,171,113,254,292,0.99986005
+m_mentah (360).jpg,540,960,mentah,179,136,262,307,0.99932694
+m_mentah (323).jpg,540,960,mentah,202,17,316,206,0.9998292
+m_mentah (392).jpg,540,960,mentah,202,27,305,209,0.99956673
+m_mentah (393).jpg,540,960,mentah,196,10,305,196,0.993614
+m_mentah (355).jpg,540,960,mentah,240,3,347,163,0.9974021
+m_mentah (326).jpg,540,960,mentah,200,288,386,777,0.9999614
+m_mentah (388).jpg,540,960,mentah,127,228,359,787,0.99997807
+m_mentah (368).jpg,540,960,mentah,96,233,306,778,0.99985564
+m_mentah (357).jpg,540,960,mentah,331,164,532,885,0.99999833
+m_mentah (375).jpg,540,960,mentah,104,184,421,730,0.9999633
+m_mentah (397).jpg,540,960,mentah,92,201,375,775,0.9999676
+m_mentah (362).jpg,540,960,mentah,120,206,416,751,0.99993134
+m_mentah (363).jpg,540,960,mentah,269,40,382,273,0.99999857
+m_mentah (389).jpg,540,960,mentah,197,31,307,266,0.99999905
+m_mentah (340).jpg,540,960,mentah,209,63,325,298,0.99999917
+m_mentah (376).jpg,540,960,mentah,163,59,289,325,0.9999993
+m_mentah (356).jpg,540,960,mentah,147,92,286,319,0.99999964
+m_mentah (352).jpg,540,960,mentah,162,89,279,319,0.9999999
+m_mentah (372).jpg,540,960,mentah,186,27,343,259,0.9998367
+m_mentah (342).jpg,540,960,mentah,85,10,253,224,0.99999833
+m_mentah (330).jpg,540,960,mentah,160,95,304,296,0.9575033
+m_mentah (330).jpg,540,960,setengah matang,163,94,301,296,0.82456434
+m_mentah (370).jpg,540,960,mentah,100,28,224,213,0.99995863
+m_mentah (369).jpg,540,960,mentah,122,186,366,677,0.99974936
+m_mentah (324).jpg,540,960,mentah,74,85,339,718,0.9999939
+m_mentah (398).jpg,540,960,mentah,188,122,425,763,0.9999933
+m_mentah (339).jpg,540,960,mentah,151,117,368,742,0.99999833
+m_mentah (358).jpg,540,960,mentah,31,103,292,773,0.9999883
+m_mentah (400).jpg,540,960,mentah,58,99,381,776,0.9998412
+m_mentah (359).jpg,540,960,mentah,27,128,325,787,0.99989855
+m_mentah (341).jpg,540,960,mentah,62,126,354,738,0.9999596
+m_mentah (327).jpg,540,960,mentah,70,120,396,728,0.99980646
+m_mentah (373).jpg,540,960,mentah,234,169,449,791,0.9999901
+m_mentah (391).jpg,540,960,mentah,118,109,385,875,0.9999963
+m_mentah (334).jpg,540,960,mentah,184,258,381,781,0.99999046
+m_mentah (329).jpg,540,960,mentah,200,193,410,756,0.999985
+m_mentah (325).jpg,540,960,mentah,50,109,500,783,0.9999994
+m_mentah (325).jpg,540,960,mentah,62,148,454,588,0.9998822
+m_mentah (325).jpg,540,960,mentah,74,255,444,716,0.97951674
+m_mentah (344).jpg,540,960,mentah,39,78,518,769,0.9999989
+m_mentah (344).jpg,540,960,mentah,19,255,493,668,0.89717394
+m_mentah (399).jpg,540,960,mentah,55,122,539,782,0.9999969
+m_mentah (399).jpg,540,960,mentah,116,106,512,552,0.92745
+m_mentah (399).jpg,540,960,mentah,65,28,311,303,0.6741186
+m_mentah (377).jpg,540,960,mentah,7,56,540,785,0.9999962
+m_mentah (377).jpg,540,960,mentah,55,26,494,591,0.5960093
+m_mentah (377).jpg,540,960,mentah,0,239,526,688,0.5437396
+m_mentah (366).jpg,540,960,mentah,157,95,292,325,0.99999905
+m_mentah (345).jpg,540,960,mentah,133,85,259,343,0.99994636
+m_mentah (364).jpg,540,960,mentah,204,64,320,306,0.9999981
+m_mentah (322).jpg,540,960,mentah,150,127,276,357,0.9999962
+m_mentah (321).jpg,540,960,mentah,189,91,308,321,0.999998
+m_mentah (332).jpg,540,960,mentah,182,61,319,293,0.9999993
+m_mentah (361).jpg,540,960,mentah,211,77,328,274,0.99999785
+m_mentah (367).jpg,540,960,mentah,235,81,354,307,0.9999993
+m_mentah (336).jpg,540,960,mentah,195,102,316,335,0.99999535
+m_mentah (390).jpg,540,960,mentah,214,81,351,310,0.9999963
+m_mentah (333).jpg,540,960,mentah,210,86,331,309,0.99998164
+m_mentah (354).jpg,540,960,mentah,223,106,339,324,0.9999993
+m_setengah (360).jpg,540,960,setengah matang,99,3,233,223,0.999848
+m_setengah (385).jpg,540,960,setengah matang,138,5,297,230,0.9999994
+m_setengah (392).jpg,540,960,setengah matang,114,4,265,211,0.99999774
+m_setengah (357).jpg,540,960,setengah matang,143,0,285,287,0.9997451
+m_setengah (341).jpg,540,960,setengah matang,102,1,235,284,0.9999943
+m_setengah (374).jpg,540,960,setengah matang,101,2,234,279,0.9999944
+m_setengah (366).jpg,540,960,setengah matang,92,17,231,290,0.9999938
+m_setengah (375).jpg,540,960,setengah matang,234,35,401,265,1.0
+m_setengah (363).jpg,540,960,setengah matang,211,27,355,258,0.99999905
+m_setengah (333).jpg,540,960,setengah matang,247,11,375,217,0.9999976
+m_setengah (343).jpg,540,960,setengah matang,183,46,300,289,0.9999999
+m_setengah (347).jpg,540,960,setengah matang,170,25,285,270,0.9999906
+m_setengah (336).jpg,540,960,setengah matang,172,26,296,244,1.0
+m_setengah (393).jpg,540,960,setengah matang,181,4,332,203,0.9999962
+m_setengah (395).jpg,540,960,setengah matang,181,10,303,235,0.9999995
+m_setengah (346).jpg,540,960,setengah matang,228,50,347,261,0.9999995
+m_setengah (355).jpg,540,960,setengah matang,209,27,350,241,0.9999999
+m_setengah (324).jpg,540,960,setengah matang,213,18,351,231,0.99999285
+m_setengah (373).jpg,540,960,setengah matang,162,21,302,241,0.99999964
+m_setengah (397).jpg,540,960,setengah matang,116,6,272,231,0.99990475
+m_setengah (339).jpg,540,960,setengah matang,219,13,343,229,0.99999714
+m_setengah (390).jpg,540,960,setengah matang,152,0,273,240,0.9999938
+m_setengah (391).jpg,540,960,setengah matang,175,2,314,190,0.9999666
+m_setengah (400).jpg,540,960,setengah matang,207,0,341,191,0.99981636
+m_setengah (329).jpg,540,960,setengah matang,293,19,415,201,0.99999917
+m_setengah (351).jpg,540,960,setengah matang,226,20,348,220,0.99999905
+m_setengah (352).jpg,540,960,setengah matang,199,28,304,205,0.99923587
+m_setengah (331).jpg,540,960,setengah matang,221,73,340,257,0.9999995
+m_setengah (389).jpg,540,960,setengah matang,224,74,332,244,0.9999337
+m_setengah (321).jpg,540,960,setengah matang,258,7,408,198,0.99999857
+m_setengah (338).jpg,540,960,setengah matang,144,28,270,247,0.99999726
+m_setengah (396).jpg,540,960,setengah matang,162,24,281,255,0.9999968
+m_setengah (358).jpg,540,960,setengah matang,178,29,302,247,0.99999964
+m_setengah (330).jpg,540,960,setengah matang,161,19,277,236,0.99999726
+m_setengah (377).jpg,540,960,setengah matang,161,13,280,231,0.9999436
+m_setengah (399).jpg,540,960,setengah matang,270,79,383,259,0.99999964
+m_setengah (384).jpg,540,960,setengah matang,282,89,392,256,0.9999999
+m_setengah (386).jpg,540,960,setengah matang,288,92,393,259,0.99999976
+m_setengah (387).jpg,540,960,setengah matang,284,93,388,260,0.9999989
+m_setengah (381).jpg,540,960,setengah matang,274,75,372,256,0.9999949
+m_setengah (356).jpg,540,960,setengah matang,232,66,341,256,0.99999964
+m_setengah (327).jpg,540,960,setengah matang,236,43,347,247,0.9999988
+m_setengah (383).jpg,540,960,setengah matang,229,16,332,221,0.9999994
+m_setengah (332).jpg,540,960,setengah matang,180,13,289,236,0.99999714
+m_setengah (344).jpg,540,960,setengah matang,142,16,270,242,0.9999993
+m_setengah (326).jpg,540,960,setengah matang,169,0,290,198,0.99999976
+m_setengah (337).jpg,540,960,setengah matang,199,10,322,211,0.9999999
+m_setengah (361).jpg,540,960,setengah matang,185,1,301,218,0.9997588
+m_setengah (372).jpg,540,960,setengah matang,232,28,343,204,0.9999801
+m_setengah (334).jpg,540,960,setengah matang,220,54,329,219,0.99999917
+m_setengah (382).jpg,540,960,setengah matang,165,39,267,206,0.99999857
+m_setengah (398).jpg,540,960,setengah matang,336,39,451,213,0.99866474
+m_setengah (348).jpg,540,960,setengah matang,223,5,325,162,0.99999964
+m_setengah (388).jpg,540,960,setengah matang,265,68,385,238,0.99998677
+m_setengah (345).jpg,540,960,setengah matang,240,100,355,279,0.99999535
+m_setengah (379).jpg,540,960,setengah matang,253,10,348,191,0.9998827
+m_setengah (350).jpg,540,960,setengah matang,218,77,318,256,0.9999999
+m_matang (377).jpg,540,960,mendekati matang,240,46,327,220,0.98275787
+m_matang (377).jpg,540,960,mentah,241,40,327,224,0.39797497
+m_matang (336).jpg,540,960,mendekati matang,260,24,345,191,0.9999999
+m_matang (354).jpg,540,960,mendekati matang,209,44,288,218,0.9999994
+m_matang (374).jpg,540,960,mendekati matang,217,58,297,235,0.9999993
+m_matang (398).jpg,540,960,mendekati matang,217,83,290,257,0.9999987
+m_matang (322).jpg,540,960,mendekati matang,218,2,298,166,0.99999416
+m_matang (335).jpg,540,960,mendekati matang,234,61,314,238,0.99999785
+m_matang (355).jpg,540,960,mendekati matang,298,133,370,293,0.9999969
+m_matang (328).jpg,540,960,mendekati matang,246,153,319,313,0.99960464
+m_matang (378).jpg,540,960,mendekati matang,248,137,323,294,0.99999964
+m_matang (337).jpg,540,960,mendekati matang,300,69,379,220,0.99987483
+m_matang (327).jpg,540,960,mendekati matang,242,73,328,212,0.9999498
+m_matang (325).jpg,540,960,mendekati matang,238,77,322,225,0.999933
+m_matang (375).jpg,540,960,mendekati matang,271,10,356,192,0.99999964
+m_matang (329).jpg,540,960,mendekati matang,264,12,371,162,0.9999999
+m_matang (333).jpg,540,960,mendekati matang,272,1,382,164,0.9999989
+m_matang (338).jpg,540,960,mendekati matang,261,18,366,167,0.9999999
+m_matang (369).jpg,540,960,mendekati matang,279,44,383,198,0.99999976
+m_matang (380).jpg,540,960,mendekati matang,267,62,375,197,1.0
+m_matang (342).jpg,540,960,mendekati matang,259,59,368,210,1.0
+m_matang (382).jpg,540,960,mendekati matang,254,1,378,138,0.99999917
+m_matang (367).jpg,540,960,mendekati matang,300,4,390,159,1.0
+m_matang (349).jpg,540,960,mendekati matang,300,70,400,204,1.0
+m_matang (370).jpg,540,960,mendekati matang,248,42,329,187,0.9999999
+m_matang (352).jpg,540,960,mendekati matang,245,37,331,192,1.0
+m_matang (372).jpg,540,960,mendekati matang,190,10,291,152,0.99994326
+m_matang (399).jpg,540,960,mendekati matang,246,44,344,202,0.9999999
+m_matang (351).jpg,540,960,mendekati matang,262,0,365,173,0.9999963

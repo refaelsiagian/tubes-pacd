@@ -1,0 +1,26 @@
+<annotation>
+  <folder>1 Mentah</folder>
+  <filename>s_mentah (208)</filename>
+  <path>E:\mangrove\Pengelompokan\Training\1 Mentah\s_mentah (208).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>540</width>
+    <height>960</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mentah</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>312</xmin>
+      <ymin>175</ymin>
+      <xmax>383</xmax>
+      <ymax>596</ymax>
+    </bndbox>
+  </object>
+</annotation>
